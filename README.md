@@ -36,6 +36,7 @@ npm install @picocss/pico --save
 
 ##### Documentação
 [EJS](https://ejs.co/)
+[EJS with Express](https://github.com/mde/ejs/wiki/Using-EJS-with-Express)
 [NPM](https://www.npmjs.com/package/ejs)
 [GitHub](https://github.com/mde/ejs)
 
